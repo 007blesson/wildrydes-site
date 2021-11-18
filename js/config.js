@@ -5,6 +5,6 @@ window._config = {
         region: 'us-west-2' // e.g. us-east-2
     },
     api: {
-        invokeUrl: 'https://main.d1nairg5udls8z.amplifyapp.com/' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        invokeUrl: 'https://2e718ko871.execute-api.us-west-2.amazonaws.com/prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
